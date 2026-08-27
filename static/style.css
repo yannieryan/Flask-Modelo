@@ -1,9 +1,35 @@
 body{
-    background-color: rgb(148, 241, 213);
+    background-color: rgb(231, 119, 67);
+}
+
+.cartao{
+    margin: auto;
+    width: 400px;
+    background-color: rgb(243, 159, 90);
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+label{
+    width: 100%;
+}
+input{
+    width:100%;
+    border-radius:5px ;
+    margin-bottom: 15px;
+    border:1px;
+    padding:7px
+}
+button{
+    background-color:rgb(247, 234, 123) ;
+    color:white;
+    width: 100%;
+    border-radius: 5px;
+    border:none;
+    padding:7px;
+    font-size:15px;
 }
 h1{
-    color:rgb(255, 106, 7)
-}
-p{
-    color:rgb(136, 118, 214)
+    text-align: center;
 }
